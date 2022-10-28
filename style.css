@@ -1,0 +1,5 @@
+.todos__done {
+    text-decoration: line-through;
+    color : #9e9d9d;
+
+}
